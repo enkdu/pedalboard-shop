@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Shop</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Caveat&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans&display=swap" rel="stylesheet">
+
+		<link href="css/style.css" rel="stylesheet">
+		<script type="module" src="js/script.js" ></script>
+</head>
+
+<body>
+		<div class="wrapper">
+				<header id="page-start">
+						<h1>ГИТАРНЫЕ ПЕДАЛИ</h1>
+						<div class="header-icons">
+								<button class="basket basket-js">
+										<img src="images/basket.png" class="basket-icon basket-js">
+										<div class="basket-counter hidden basket-js">
+												<p></p>
+										</div>
+								</button>
+						</div>
+				</header>
+
+				<nav>
+						<div class="menu">
+								<a href="#" data-link="overdrive">ОВЕРДРАЙВ</a>
+								<a href="#" data-link="delay">ЗАДЕЖКА / ЭХО</a>
+								<a href="#" data-link="modulation">МОДУЛЯТОР</a>
+								<a href="#" data-link="compressor">КОМПРЕССОР</a>
+								<a href="#" data-link="looper">ЛУПЕР</a>
+								<a href="#" data-link="multieffect">МУЛЬТИЭФЕКТ</a>
+								<a href="#" data-link="other">ДРУГОЕ</a>
+						</div>
+
+						<div class="mobile-menu">
+								<button>Меню</button>
+								<div class="mobile-menu-wrapper hidden">
+										<a href="#" data-link="overdrive">ОВЕРДРАЙВ</a>
+										<a href="#" data-link="delay">ЗАДЕЖКА / ЭХО</a>
+										<a href="#" data-link="modulation">МОДУЛЯТОР</a>
+										<a href="#" data-link="compressor">КОМПРЕССОР</a>
+										<a href="#" data-link="looper">ЛУПЕР</a>
+										<a href="#" data-link="multieffect">МУЛЬТИЭФЕКТ</a>
+										<a href="#" data-link="other">ДРУГОЕ</a>
+								</div>
+						</div>
+
+						<div class="search">
+								<input type="text" placeholder="Поиск…">
+						</div>
+				</nav>
+
+				<main data-products="0">
+						<div class="products-wrapper hidden">
+								<div class="products"></div>
+								<div class="infinite-scroll-wrapper" data-scroll="scroll"></div>
+						</div>
+
+						<div class="basket-wrapper center-wrapper">
+								<div class="order-wrapper"></div>
+						</div>
+				</main>
+
+				<footer>
+						<p>create by aleh&#174;</p>
+				</footer>
+		</div>
+
+		<div class="form-wrapper hidden">
+				<div class="exit">
+						<div class="exit-wrapper">
+								<span>&#215;</span>
+						</div>
+				</div>
+				<form class="order-form" action="/basket" method="POST">
+						<input type="text" placeholder="Имя" name="name" class="user-name">
+						<input type='tel' placeholder="Мобильный телефон" name="telephone" class="user-telephone">
+						<input type="text" placeholder="Адресс" name="address" class="user-address">
+						<input type="submit" value="Отправить заказ" class="order-button">
+				</form>
+		</div>
+
+		<!-- <script src="js/script.js"></script> -->
+</body>
+
+</html>

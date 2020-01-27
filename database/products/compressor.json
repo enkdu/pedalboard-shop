@@ -1,0 +1,110 @@
+[
+	{
+		"type": "compressor",
+		"number": "4_1",
+		"name": "Electro Harmonix Bass Preacher",
+		"price": 90.20
+	},
+	{
+		"type": "compressor",
+		"number": "4_2",
+		"name": "Mad Professor Forest Green Compressor Fact",
+		"price": 181.51
+	},
+	{
+		"type": "compressor",
+		"number": "4_3",
+		"name": "tc electronic SpectraComp Bass Compressor",
+		"price": 83.52
+	},
+	{
+		"type": "compressor",
+		"number": "4_4",
+		"name": "MXR M87 Bass Compressor",
+		"price": 234.97
+	},
+	{
+		"type": "compressor",
+		"number": "4_5",
+		"name": "Boss CS-3 Compression Sustainer",
+		"price": 98
+	},
+	{
+		"type": "compressor",
+		"number": "4_6",
+		"name": "tc electronic HyperGravity Compressor",
+		"price": 99.11
+	},
+	{
+		"type": "compressor",
+		"number": "4_7",
+		"name": "Wampler Ego Compressor",
+		"price": 220.49
+	},
+	{
+		"type": "compressor",
+		"number": "4_8",
+		"name": "Boss CP-1X Compressor",
+		"price": 161.47
+	},
+	{
+		"type": "compressor",
+		"number": "4_9",
+		"name": "Carl Martin Andy Timmons Compressor",
+		"price": 243.87
+	},
+	{
+		"type": "compressor",
+		"number": "4_10",
+		"name": "Boss BC-1X Bass Compressor",
+		"price": 217.15
+	},
+	{
+		"type": "compressor",
+		"number": "4_11",
+		"name": "Darkglass Hyper Luminal Compressor",
+		"price": 288.42
+	},
+	{
+		"type": "compressor",
+		"number": "4_12",
+		"name": "Harley Benton Custom Line CS-5 Compressor",
+		"price": 43.43
+	},
+	{
+		"type": "compressor",
+		"number": "4_13",
+		"name": "Strymon OB.1",
+		"price": 266.15
+	},
+	{
+		"type": "compressor",
+		"number": "4_14",
+		"name": "Keeley Bassist Compressor",
+		"price": 259.46
+	},
+	{
+		"type": "compressor",
+		"number": "4_15",
+		"name": "Diamond Guitar Compressor Jr",
+		"price": 234.97
+	},
+	{
+		"type": "compressor",
+		"number": "4_16",
+		"name": "Nux Mini Core SE Compressor",
+		"price": 32.29
+	},
+	{
+		"type": "compressor",
+		"number": "4_17",
+		"name": "Electro Harmonix Tone Corset",
+		"price": 110.24
+	},
+	{
+		"type": "compressor",
+		"number": "4_18",
+		"name": "Harley Benton Dynamic Compressor",
+		"price": 33.41
+	}
+]

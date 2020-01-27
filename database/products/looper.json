@@ -1,0 +1,134 @@
+[
+	{
+		"type": "looper",
+		"number": "5_1",
+		"name": "Digitech Trio+ Band Creator",
+		"price": 206.01
+	},
+	{
+		"type": "looper",
+		"number": "5_2",
+		"name": "Boss RC-3 Loop Station",
+		"price": 143.65
+	},
+	{
+		"type": "looper",
+		"number": "5_3",
+		"name": "Digitech JamMan Stereo",
+		"price": 143.65
+	},
+	{
+		"type": "looper",
+		"number": "5_4",
+		"name": "tc electronic Ditto Looper",
+		"price": 80.18
+	},
+	{
+		"type": "looper",
+		"number": "5_5",
+		"name": "Boss RC-1",
+		"price": 94.65
+	},
+	{
+		"type": "looper",
+		"number": "5_6",
+		"name": "Boss RC-3 Bundle",
+		"price": 152.56
+	},
+	{
+		"type": "looper",
+		"number": "5_7",
+		"name": "Boss RC-30 Dual Track Looper",
+		"price": 199.33
+	},
+	{
+		"type": "looper",
+		"number": "5_8",
+		"name": "Boss RC-30 Power-Set",
+		"price": 221.60
+	},
+	{
+		"type": "looper",
+		"number": "5_9",
+		"name": "tc electronic Flashback X4",
+		"price": 210.47
+	},
+	{
+		"type": "looper",
+		"number": "5_10",
+		"name": "Nux Loop Core Deluxe Bundle",
+		"price": 109.13
+	},
+	{
+		"type": "looper",
+		"number": "5_11",
+		"name": "Nux Loop Core",
+		"price": 75.72
+	},
+	{
+		"type": "looper",
+		"number": "5_12",
+		"name": "Electro Harmonix Grand Canyon",
+		"price": 271.71
+	},
+	{
+		"type": "looper",
+		"number": "5_13",
+		"name": "tc electronic Flashback 2 X4 Delay",
+		"price": 217.15
+	},
+	{
+		"type": "looper",
+		"number": "5_14",
+		"name": "Boss RC-505",
+		"price": 477.73
+	},
+	{
+		"type": "looper",
+		"number": "5_15",
+		"name": "Harley Benton Mini Looper",
+		"price": 43.43
+	},
+	{
+		"type": "looper",
+		"number": "5_16",
+		"name": "Boss RC-10R Rhythm Loop Station",
+		"price": 328.51
+	},
+	{
+		"type": "looper",
+		"number": "5_17",
+		"name": "Boss RC-300 Loop Station",
+		"price": 473.27
+	},
+	{
+		"type": "looper",
+		"number": "5_18",
+		"name": "Mooer Ocean Machine",
+		"price": 231.62
+	},
+	{
+		"type": "looper",
+		"number": "5_19",
+		"name": "Red Panda Tensor",
+		"price": 361.91
+	},
+	{
+		"type": "looper",
+		"number": "5_20",
+		"name": "Singular Sound Aeros Loop Studio",
+		"price": 753.89
+	},
+	{
+		"type": "looper",
+		"number": "5_21",
+		"name": "tc electronic Ditto Jam X2 Looper",
+		"price": 154.79
+	},
+	{
+		"type": "looper",
+		"number": "5_22",
+		"name": "Strymon Timeline",
+		"price": 494.43
+	}
+]

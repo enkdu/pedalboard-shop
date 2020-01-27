@@ -1,0 +1,434 @@
+[
+	{
+		"type": "overdrive",
+		"number": "1_1",
+		"name": "Greer Amps Lightspeed Overdrive",
+		"price": 246.80
+	},
+	{
+		"type": "overdrive",
+		"number": "1_2",
+		"name": "Electro Harmonix Ram's Head Big Muff Fuzz",
+		"price": 110.06
+	},
+	{
+		"type": "overdrive",
+		"number": "1_3",
+		"name": "Dunlop Fuzz Face Distortion Hendrix",
+		"price": 187.88
+	},
+	{
+		"type": "overdrive",
+		"number": "1_4",
+		"name": "Catalinbread Sabbra Cadabra",
+		"price": 210.12
+	},
+	{
+		"type": "overdrive",
+		"number": "1_5",
+		"name": "Wampler Tumnus Overdrive V2",
+		"price": 161.20
+	},
+	{
+		"type": "overdrive",
+		"number": "1_6",
+		"name": "Source Audio SA 249 One Series C4 Synth",
+		"price": 316.84
+	},
+	{
+		"type": "overdrive",
+		"number": "1_7",
+		"name": "Dunlop Gypsys Fuzz Authentic Hendrix",
+		"price": 187.88
+	},
+	{
+		"type": "overdrive",
+		"number":"1_8",
+		"name": "Carl Martin Plexitone",
+		"price": 250.14
+	},
+	{
+		"type": "overdrive",
+		"number": "1_9",
+		"name": "Revv G4 Distortion",
+		"price": 250.14
+	},
+	{
+		"type": "overdrive",
+		"number": "1_10",
+		"name": "Electro Harmonix Green Russian Big Muff Fuzz",
+		"price": 94.50
+	},
+	{
+		"type": "overdrive",
+		"number": "1_11",
+		"name": "Boss OD-3 Overdrive",
+		"price": 97.83
+	},
+	{
+		"type": "overdrive",
+		"number": "1_12",
+		"name": "Friedman Fuzz Fiend",
+		"price": 143.41
+	},
+	{
+		"type": "overdrive",
+		"number": "1_13",
+		"name": "HoTone Xtomp",
+		"price": 216.79
+	},
+	{
+		"type": "overdrive",
+		"number": "1_14",
+		"name": "Boss BD-2 Overdrive",
+		"price": 97.83
+	},
+	{
+		"type": "overdrive",
+		"number": "1_15",
+		"name": "Electro Harmonix Big Muff PI USA",
+		"price": 85.60
+	},
+	{
+		"type": "overdrive",
+		"number": "1_16",
+		"name": "Electro Harmonix Triangle Big Muff Fuzz",
+		"price": 105.61
+	},
+	{
+		"type": "overdrive",
+		"number": "1_17",
+		"name": "Xotic SL Drive",
+		"price": 143.41
+	},
+	{
+		"type": "overdrive",
+		"number": "1_18",
+		"name": "Boss DS-1 Distortion",
+		"price": 64.48
+	},
+	{
+		"type": "overdrive",
+		"number": "1_19",
+		"name": "tc electronic MojoMojo",
+		"price": 50.03
+	},
+	{
+		"type": "overdrive",
+		"number": "1_20",
+		"name": "Wampler Velvet Fuzz",
+		"price": 184.55
+	},
+	{
+		"type": "overdrive",
+		"number": "1_21",
+		"name": "Electro Harmonix Nano Big Muff",
+		"price": 83.38
+	},
+	{
+		"type": "overdrive",
+		"number": "1_22",
+		"name": "Harley Benton Vintage Overdrive",
+		"price": 32.24
+	},
+	{
+		"type": "overdrive",
+		"number": "1_23",
+		"name": "tc electronic Honey Pot Fuzz",
+		"price": 34.46
+	},
+	{
+		"type": "overdrive",
+		"number": "1_24",
+		"name": "Mad Professor Super Black Boost/Overdrive",
+		"price": 265.70
+	},
+	{
+		"type": "overdrive",
+		"number": "1_25",
+		"name": "tc electronic Dark Matter Distortion",
+		"price": 50.03
+	},
+	{
+		"type": "overdrive",
+		"number": "1_26",
+		"name": "Boss MT-2W Metal Zone",
+		"price": 147.86
+	},
+	{
+		"type": "overdrive",
+		"number": "1_27",
+		"name": "Electro Harmonix Little Big Muff Pi",
+		"price": 80.04
+	},
+	{
+		"type": "overdrive",
+		"number": "1_28",
+		"name": "Boss SD-1 Overdrive",
+		"price": 58.92
+	},
+	{
+		"type": "overdrive",
+		"number": "1_29",
+		"name": "Friedman BE-OD Deluxe Overdrive",
+		"price": 317.95
+	},
+	{
+		"type": "overdrive",
+		"number": "1_30",
+		"name": "Harley Benton Ultimate Drive",
+		"price": 33.35
+	},
+	{
+		"type": "overdrive",
+		"number": "1_31",
+		"name": "Electro Harmonix Metal Muff/ Top Boost",
+		"price": 94.50
+	},
+	{
+		"type": "overdrive",
+		"number": "1_32",
+		"name": "Klon KTR Centaur Overdrive",
+		"price": 421.35
+	},
+	{
+		"type": "overdrive",
+		"number": "1_33",
+		"name": "Boss DS-2 Distortion",
+		"price": 73.37
+	},
+	{
+		"type": "overdrive",
+		"number": "1_34",
+		"name": "Xotic RC Booster V2 Boost/Overdrive",
+		"price": 199
+	},
+	{
+		"type": "overdrive",
+		"number": "1_35",
+		"name": "Wampler Dual Fusion",
+		"price": 287.94
+	},
+	{
+		"type": "overdrive",
+		"number": "1_36",
+		"name": "Electro Harmonix East River Drive",
+		"price": 73.37
+	},
+	{
+		"type": "overdrive",
+		"number": "1_37",
+		"name": "Boss OS-2",
+		"price": 94.50
+	},
+	{
+		"type": "overdrive",
+		"number": "1_38",
+		"name": "Boss MT-2",
+		"price": 108.95
+	},
+	{
+		"type": "overdrive",
+		"number": "1_39",
+		"name": "Proco Rat 2 Distortion",
+		"price": 83.38
+	},
+	{
+		"type": "overdrive",
+		"number": "1_40",
+		"name": "Behringer TO800 Vintage Tube Overdrive",
+		"price": 23.24
+	},
+	{
+		"type": "overdrive",
+		"number": "1_41",
+		"name": "Electro Harmonix Sovtek Del. Big Muff Pi Fuzz",
+		"price": 161.20
+	},
+	{
+		"type": "overdrive",
+		"number": "1_42",
+		"name": "Electro Harmonix Op-Amp Big Muff Pi Fuzz",
+		"price": 98.94
+	},
+	{
+		"type": "overdrive",
+		"number": "1_43",
+		"name": "Old Blood Noise Endeavors Alpha Haunt Fuzz",
+		"price": 213.45
+	},
+	{
+		"type": "overdrive",
+		"number": "1_44",
+		"name": "Boss JB-2 Overdrive/Distortion",
+		"price": 187.88
+	},
+	{
+		"type": "overdrive",
+		"number": "1_45",
+		"name": "Rodenberg TB Drive Shakedown Special",
+		"price": 213.45
+	},
+	{
+		"type": "overdrive",
+		"number": "1_46",
+		"name": "Behringer HM300 Heavy Metal Distortion",
+		"price": 23.24
+	},
+	{
+		"type": "overdrive",
+		"number": "1_47",
+		"name": "Electro Harmonix Big Muff Pi w. Tone Wicker",
+		"price": 94.50
+	},
+	{
+		"type": "overdrive",
+		"number": "1_48",
+		"name": "Electro Harmonix Soul Food",
+		"price": 90.05
+	},
+	{
+		"type": "overdrive",
+		"number": "1_49",
+		"name": "Boss FZ-5",
+		"price": 121.18
+	},
+	{
+		"type": "overdrive",
+		"number": "1_50",
+		"name": "Electro Harmonix Overlord Overdrive/Boost",
+		"price": 183.44
+	},
+	{
+		"type": "overdrive",
+		"number": "1_51",
+		"name": "Boss DS-1X Distortion",
+		"price": 163.42
+	},
+	{
+		"type": "overdrive",
+		"number":"1_52",
+		"name": "Harley Benton British TrueTone",
+		"price": 33.35
+	},
+	{
+		"type": "overdrive",
+		"number": "1_53",
+		"name": "Electro Harmonix OD Glove",
+		"price": 65.59
+	},
+	{
+		"type": "overdrive",
+		"number": "1_54",
+		"name": "Fender Pugilist Distortion Pedal",
+		"price": 94.50
+	},
+	{
+		"type": "overdrive",
+		"number": "1_55",
+		"name": "Rodenberg GAS (OD/CB) G",
+		"price": 213.45
+	},
+	{
+		"type": "overdrive",
+		"number": "1_56",
+		"name": "Electro Harmonix Hot Wax Dual Overdrive",
+		"price": 127.85
+	},
+	{
+		"type": "overdrive",
+		"number": "1_57",
+		"name": "Stone Deaf PDF-1X Param. EQ & Distortion",
+		"price": 220.12
+	},
+	{
+		"type": "overdrive",
+		"number": "1_58",
+		"name": "tc electronic Eyemaster Metal Distortion",
+		"price": 34.46
+	},
+	{
+		"type": "overdrive",
+		"number": "1_59",
+		"name": "Friedman Golden Pearl Overdrive",
+		"price": 199.00
+	},
+	{
+		"type": "overdrive",
+		"number": "1_60",
+		"name": "Fulltone OCD Overdrive V2",
+		"price": 184.55
+	},
+	{
+		"type": "overdrive",
+		"number": "1_61",
+		"name": "T-Rex Mudhoney II",
+		"price": 108.95
+	},
+	{
+		"type": "overdrive",
+		"number": "1_62",
+		"name": "Blackstar HT Dual",
+		"price": 239.02
+	},
+	{
+		"type": "overdrive",
+		"number": "1_63",
+		"name": "Maxon OD-9 Overdrive",
+		"price": 123.40
+	},
+	{
+		"type": "overdrive",
+		"number": "1_64",
+		"name": "Boss SD-1W Super Overdrive",
+		"price": 161.20
+	},
+	{
+		"type": "overdrive",
+		"number": "1_65",
+		"name": "Fulltone Custom Shop OCD-GE Overdrive",
+		"price": 276.82
+	},
+	{
+		"type": "overdrive",
+		"number": "1_66",
+		"name": "Electro Harmonix Nano Overlord Overdrive",
+		"price": 98.94
+	},
+	{
+		"type": "overdrive",
+		"number": "1_67",
+		"name": "Keeley Dark Side V2",
+		"price": 387.99
+	},
+	{
+		"type": "overdrive",
+		"number": "1_68",
+		"name": "Fulltone Full-Drive 3",
+		"price": 197.89
+	},
+	{
+		"type": "overdrive",
+		"number": "1_69",
+		"name": "tc electronic Cinders Overdrive",
+		"price": 34.46
+	},
+	{
+		"type": "overdrive",
+		"number": "1_70",
+		"name": "EarthQuaker Devices Devices Plumes Signal Shredder",
+		"price": 135.63
+	},
+	{
+		"type": "overdrive",
+		"number": "1_71",
+		"name": "Harley Benton California TrueTone",
+		"price": 33.35
+	},
+	{
+		"type": "overdrive",
+		"number": "1_72",
+		"name": "Boss ML-2",
+		"price": 132.30
+	}
+]

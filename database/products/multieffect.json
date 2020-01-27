@@ -1,0 +1,122 @@
+[
+	{
+		"type": "multieffect",
+		"number": "6_1",
+		"name": "Line6 Helix Gold Guitar Processor",
+		"price": 1502.22
+	},
+	{
+		"type": "multieffect",
+		"number": "6_2",
+		"name": "Boss GT-100",
+		"price": 388.64
+	},
+	{
+		"type": "multieffect",
+		"number": "6_3",
+		"name": "Line6 Helix LT Guitar Processor",
+		"price": 988.86
+	},
+	{
+		"type": "multieffect",
+		"number": "6_4",
+		"name": "Line6 Pod HD500X Bundle",
+		"price": 453.23
+	},
+	{
+		"type": "multieffect",
+		"number": "6_5",
+		"name": "Source Audio SA 249 One Series C4 Synth",
+		"price": 317.37
+	},
+	{
+		"type": "multieffect",
+		"number": "6_6",
+		"name": "Line6 Helix Guitar Processor",
+		"price": 1435.40
+	},
+	{
+		"type": "multieffect",
+		"number": "6_7",
+		"name": "Headrush Pedalboard",
+		"price": 952.11
+	},
+	{
+		"type": "multieffect",
+		"number": "6_8",
+		"name": "HoTone Ampero",
+		"price": 426.50
+	},
+	{
+		"type": "multieffect",
+		"number": "6_9",
+		"name": "Boss ME-80",
+		"price": 253.90
+	},
+	{
+		"type": "multieffect",
+		"number": "6_10",
+		"name": "Line6 Pod HD500X",
+		"price": 436.52
+	},
+	{
+		"type": "multieffect",
+		"number": "6_11",
+		"name": "Tech 21 Fly Rig RK5 v2",
+		"price": 388.64
+	},
+	{
+		"type": "multieffect",
+		"number": "6_12",
+		"name": "Zoom G1X Four Multi Effect-Pedal",
+		"price": 105.79
+	},
+	{
+		"type": "multieffect",
+		"number": "6_13",
+		"name": "Boss RC-300 Loop Station",
+		"price": 473.27
+	},
+	{
+		"type": "multieffect",
+		"number": "6_14",
+		"name": "Behringer FX600",
+		"price": 23.27
+	},
+	{
+		"type": "multieffect",
+		"number": "6_15",
+		"name": "Empress Effects ZOIA",
+		"price": 606.90
+	},
+	{
+		"type": "multieffect",
+		"number": "6_16",
+		"name": "Tech 21 Fly Rig 5 v2",
+		"price": 407.57
+	},
+	{
+		"type": "multieffect",
+		"number": "6_17",
+		"name": "Line6 HX Stomp",
+		"price": 550.11
+	},
+	{
+		"type": "multieffect",
+		"number": "6_18",
+		"name": "Boss ME-80 Bundle",
+		"price": 277.28
+	},
+	{
+		"type": "multieffect",
+		"number": "6_19",
+		"name": "Boss GT-1 Guitar Multi-FX Pedal",
+		"price": 210.47
+	},
+	{
+		"type": "multieffect",
+		"number": "6_20",
+		"name": "Kemper Profiler Stage",
+		"price": 1770.59
+	}
+]

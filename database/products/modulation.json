@@ -1,0 +1,98 @@
+[
+	{
+		"type": "modulation",
+		"number": "3_1",
+		"name": "Electro Harmonix Good Vibes Univibe",
+		"price": 132.52
+	},
+	{
+		"type": "modulation",
+		"number": "3_2",
+		"name": "Keeley 30ms Automatic Double Tracker",
+		"price": 259.46
+	},
+	{
+		"type": "modulation",
+		"number": "3_3",
+		"name": "Dunlop Chorus - Vibrato Hendrix",
+		"price": 188.20
+	},
+	{
+		"type": "modulation",
+		"number": "3_4",
+		"name": "Electro Harmonix Small Stone",
+		"price": 73.50
+	},
+	{
+		"type": "modulation",
+		"number": "3_5",
+		"name": "Boss CH-1 Chorus",
+		"price": 94.65
+	},
+	{
+		"type": "modulation",
+		"number": "3_6",
+		"name": "tc electronic JUNE-60 Chorus",
+		"price": 40.09
+	},
+	{
+		"type": "modulation",
+		"number": "3_7",
+		"name": "HoTone Xtomp",
+		"price": 210.47
+	},
+	{
+		"type": "modulation",
+		"number": "3_8",
+		"name": "tc electronic Afterglow Chorus",
+		"price": 34.52
+	},
+	{
+		"type": "modulation",
+		"number": "3_9",
+		"name": "Behringer FX600",
+		"price": 23.27
+	},
+	{
+		"type": "modulation",
+		"number": "3_10",
+		"name": "Harley Benton Custom Line Acoustic Preamp",
+		"price": 87.97
+	},
+	{
+		"type": "modulation",
+		"number": "3_11",
+		"name": "tc electronic 3rd Dimension Chorus",
+		"price": 33.41
+	},
+	{
+		"type": "modulation",
+		"number": "3_12",
+		"name": "Electro Harmonix Small Clone",
+		"price": 98
+	},
+	{
+		"type": "modulation",
+		"number": "3_13",
+		"name": "Boss PS-6 Harmonist",
+		"price": 164.81
+	},
+	{
+		"type": "modulation",
+		"number": "3_14",
+		"name": "tc electronic Corona Chorus",
+		"price": 99.11
+	},
+	{
+		"type": "modulation",
+		"number": "3_15",
+		"name": "Electro Harmonix Bad Stone",
+		"price": 83.52
+	},
+	{
+		"type": "modulation",
+		"number": "3_16",
+		"name": "Walrus Audio Lillian Analog Phaser",
+		"price": 221.60
+	}
+]

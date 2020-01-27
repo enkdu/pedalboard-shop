@@ -1,0 +1,182 @@
+[
+	{
+		"type": "delay",
+		"number": "2_1",
+		"name": "tc electronic Flashback 2 Delay",
+		"price": 123.61
+	},
+	{
+		"type": "delay",
+		"number": "2_2",
+		"name": "Digitech DOD Rubberneck",
+		"price": 165.92
+	},
+	{
+		"type": "delay",
+		"number": "2_3",
+		"name": "tc electronic Flashback X4",
+		"price": 210.47
+	},
+	{
+		"type": "delay",
+		"number": "2_4",
+		"name": "Boss DD-3T Digital Delay",
+		"price": 154.79
+	},
+	{
+		"type": "delay",
+		"number": "2_5",
+		"name": "Boss DD-8 Digital Delay",
+		"price": 175.95
+	},
+	{
+		"type": "delay",
+		"number": "2_6",
+		"name": "Nux Atlantic Delay & Reverb",
+		"price": 164.81
+	},
+	{
+		"type": "delay",
+		"number": "2_7",
+		"name": "Electro Harmonix Grand Canyon",
+		"price": 271.71
+	},
+	{
+		"type": "delay",
+		"number": "2_8",
+		"name": "HoTone Xtomp",
+		"price": 210.47
+	},
+	{
+		"type": "delay",
+		"number": "2_9",
+		"name": "Behringer FX600",
+		"price": 23.27
+	},
+	{
+		"type": "delay",
+		"number": "2_10",
+		"name": "tc electronic Flashback 2 X4 Delay",
+		"price": 217.15
+	},
+	{
+		"type": "delay",
+		"number": "2_11",
+		"name": "T-Rex Replicator Junior Tape Echo",
+		"price": 331.85
+	},
+	{
+		"type": "delay",
+		"number": "2_12",
+		"name": "Mooer Ocean Machine",
+		"price": 231.62
+	},
+	{
+		"type": "delay",
+		"number": "2_13",
+		"name": "Nux Tape Core Deluxe",
+		"price": 64.59
+	},
+	{
+		"type": "delay",
+		"number": "2_14",
+		"name": "Red Panda Tensor",
+		"price": 361.91
+	},
+	{
+		"type": "delay",
+		"number": "2_15",
+		"name": "Strymon Volante",
+		"price": 482.18
+	},
+	{
+		"type": "delay",
+		"number": "2_16",
+		"name": "Boss RE-20 Space Echo",
+		"price": 249.44
+	},
+	{
+		"type": "delay",
+		"number": "2_17",
+		"name": "tc electronic Flashback Mini Delay",
+		"price": 231.62
+	},
+	{
+		"type": "delay",
+		"number": "2_18",
+		"name": "Boss DD-200 Digital Delay",
+		"price": 231.62
+	},
+	{
+		"type": "delay",
+		"number": "2_19",
+		"name": "Eventide H9 Core Harmonizer",
+		"price": 444.32
+	},
+	{
+		"type": "delay",
+		"number": "2_20",
+		"name": "Strymon Timeline",
+		"price": 494.43
+	},
+	{
+		"type": "delay",
+		"number": "2_21",
+		"name": "Electro Harmonix Memory Toy",
+		"price": 94.65
+	},
+	{
+		"type": "delay",
+		"number": "2_22",
+		"name": "Line6 DL4",
+		"price": 255.01
+	},
+	{
+		"type": "delay",
+		"number": "2_23",
+		"name": "Fender Reflecting Pool Delay Reverb",
+		"price": 287.30
+	},
+	{
+		"type": "delay",
+		"number": "2_24",
+		"name": "Joyo R-07 Aquarius Delay+Looper",
+		"price": 83.52
+	},
+	{
+		"type": "delay",
+		"number": "2_25",
+		"name": "Boss DD-500 Digital Delay",
+		"price": 344.10
+	},
+	{
+		"type": "delay",
+		"number": "2_26",
+		"name": "Keeley Dark Side V2",
+		"price": 388.64
+	},
+	{
+		"type": "delay",
+		"number": "2_27",
+		"name": "Red Panda Particle 2",
+		"price": 373.05
+	},
+	{
+		"type": "delay",
+		"number": "2_28",
+		"name": "tc electronic Flashback Triple Delay",
+		"price": 250.56
+	},
+	{
+		"type": "delay",
+		"number": "2_29",
+		"name": "Strymon El Capistan",
+		"price": 370.82
+	},
+	{
+		"type": "delay",
+		"number": "2_30",
+		"name": "Catalinbread Echorec",
+		"price": 299.55
+	}
+]
